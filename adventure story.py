@@ -17,6 +17,7 @@ elif door_input == 'blue':
         print ('omg. what were you thinking? now you have to steal his saber to escape.')
         steal = input('would you steal or leave?: ')
         if steal == 'steal':
+
             print('good choice. now run and use it to escape. good luck')
         elif steal == 'leave':
             print('woow you must know a way out. good luck.')
